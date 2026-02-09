@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi  I'm Himavi H M  
 
-<!--
-**Himavigithub/Himavigithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Cloud Automation |  Data Analyst  
+Python |  Java | Front-End Developer  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  About Me
+- Passionate about cloud automation and data analytics  
+- I enjoy turning raw data into meaningful insights  
+- Interested in AI, ML, and real-world problem solving  
+- Constantly learning & building projects 
+
+###  Tech Stack
+- Languages:Python, Java  
+- Data & ML:Pandas, NumPy, Scikit-learn  
+- Visualization: Matplotlib, Seaborn  
+- Front End: HTML, CSS, JavaScript  
+- Tools: Git, GitHub, Cloud Platforms  
+
+
+### Featured Projects
+-  House Price Prediction  
+-  Titanic Survival Prediction  
+-  Handwritten Digit Recognition  
+-  Voice-based RAG System  
+
+---
+
+###  Connect With Me
+- GitHub: https://github.com/Himavigithub  
+- LinkedIn: www.linkedin.com/in/himavi-h-m 
+
+ Turning data and ideas into efficient, automated system
+ ![Himavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himavigithub&show_icons=true&theme=default)
