@@ -31,4 +31,4 @@ Python |  Java | Front-End Developer
 - LinkedIn: www.linkedin.com/in/himavi-h-m 
 
  Turning data and ideas into efficient, automated system
- ![Himavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himavigithub&show_icons=true&theme=default)
+ 
